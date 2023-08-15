@@ -1,0 +1,6 @@
+file-system:
+    my-path-file: "resources/resultados"
+bando-dados:
+    host: ${host}
+    user: ${user}
+    password: ${password}
